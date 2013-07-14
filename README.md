@@ -1,0 +1,4 @@
+NinjaParty
+==========
+
+It's hidden!
